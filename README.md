@@ -2,12 +2,10 @@
 
 A library of cryptography for the browser. The aim is to unify the different js libraries into one library, but try to make it as modular as possible. This encourages further examination and development. Presently the aim is to use the same API as nodes `crypto` module.
 
-
 Node -> 
 NaCl ->
 TLS ->
 OTR ->
-
 
 ## Related Projects:
 
